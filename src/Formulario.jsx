@@ -5,6 +5,7 @@ const Formulario = () => {
     <div className='container'>
     <div className='col-6'>
       <div className='col'>
+        
         <label htmlFor='nombre' className='form-label'>Nombre</label>
         <input type='text' id='nombre' className='form-control' />
       </div>
